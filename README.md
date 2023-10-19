@@ -82,3 +82,8 @@ Los sensores de flexión se utilizan en una variedad de aplicaciones, incluyendo
 #### Definicón
 >  Un sensor de temperatura es un equipo diseñado para medir la temperatura, para ello trasforma el valor de la temperatura en una señal eléctrica para que pueda ser leída sin dificultad. Estos dispositivos también son conocidos con el nombre de termosensor o sonda de temperatura.
 
+### FOTODIODO PAR 3 (Camilo Lopez Garcia)
+>FOTODIODO:
+Un fotodiodo es un componente que detecta luz y la convierte en una señal eléctrica.
+Puede utilizarse para medir la intensidad luminosa o detectar cambios en la luz,
+como en aplicaciones de sensores de luz ambiente o para activar eventos en respuesta a cambios de luz.
